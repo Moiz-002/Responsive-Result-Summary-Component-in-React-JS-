@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Hanken Grotesk', system-ui, -apple-system, "Segoe UI",
+               Roboto, "Helvetica Neue", Arial, sans-serif;
+}
